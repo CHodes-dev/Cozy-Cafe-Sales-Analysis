@@ -31,23 +31,20 @@ This analysis will answer the following question:
 
 **Point 1** <br>
 - In October, the AOV saw a 14% increase, following a 22% decline the previous month. The trends for AOV and sales moved in tandem from August through October, both showing consistent, continuous growth. <br>
-- Total orders also saw an increase during that period.
-  
-**Indication** <br>
-- The increase in total sales is primarily driven by an increase in customer spending and a rise in the number of orders placed.
-- Customers are purchasing more products, with the total value of their purchases also increasing.
+- Total orders also saw an increase during that period. <br>
+  **Indication** <br>
+  - The increase in total sales is primarily driven by an increase in customer spending and a rise in the number of orders placed.
+  - Customers are purchasing more products, with the total value of their purchases also increasing.
 
 **Point 2** <br>
-- From November 2024 through January 2025, sales experienced a continuous decline; however, the AOV remained relatively stable, showing no significant increase or decrease (i.e., no fluctuations greater than +2% or -4%).
-
-**Indication** <br>
-- A decline in the number of orders placed by customers has resulted in a decrease in revenue.
+- From November 2024 through January 2025, sales experienced a continuous decline; however, the AOV remained relatively stable, showing no significant increase or decrease (i.e., no fluctuations greater than +2% or -4%). <br>
+  **Indication** <br>
+  - A decline in the number of orders placed by customers has resulted in a decrease in revenue.
 
 **Point 3** <br>
-- In February 2025, there was an increase in the number of customer orders, while their AOV remained relatively stable (a 2% decrease from the previous month).
-
-**Indication** <br>
-- There has been an increase in the number of customer orders, even though their spending amounts remain roughly the same as in previous months.
+- In February 2025, there was an increase in the number of customer orders, while their AOV remained relatively stable (a 2% decrease from the previous month). <br>
+  **Indication** <br>
+  - There has been an increase in the number of customer orders, even though their spending amounts remain roughly the same as in previous months.
 
 ### 2. Product Insights
 
@@ -64,17 +61,17 @@ This analysis will answer the following question:
 **Point 2** <br>
 - In February 2025, Espresso accounted for the largest share at 23%, followed by Americano with Milk at 20% and Cocoa at 15%.
 
-**Indication** <br>
-- There are several product categories with the best performance, based on their respective timeframes.
+  **Indication** <br>
+  - There are several product categories with the best performance, based on their respective timeframes.
   - Products with the best sales performance in 2024–2025: Latte, Americano with Milk, and Cappucono.
   - Products that saw an increase in sales in October 2024: Latte, Americano with Milk, and Hot Chocolate.
   - Products that saw an increase in sales in February 2025: Espresso, Americano with Milk, and Cocoa.
 
-Based on this, it follows that:
-- Latte and Americano with Milk show consistent sales performance.
-- Although cappuccino sales have not seen a surge, total sales have remained relatively stable, averaging IDR 1.3 million per month.
-- Throughout 2024 and up to January 2025, espresso remained the product with the lowest sales; however, it managed to reach the highest sales in February 2025.
-- Chocolate-based products (Hot Chocolate and Cocoa) consistently rank among the items in high demand whenever a sales surge occurs.
+  Based on this, it follows that:
+  - Latte and Americano with Milk show consistent sales performance.
+  - Although cappuccino sales have not seen a surge, total sales have remained relatively stable, averaging IDR 1.3 million per month.
+  - Throughout 2024 and up to January 2025, espresso remained the product with the lowest sales; however, it managed to reach the highest sales in February 2025.
+  - Chocolate-based products (Hot Chocolate and Cocoa) consistently rank among the items in high demand whenever a sales surge occurs.
 
 ### 3. Day and Time Insights
 
@@ -88,7 +85,6 @@ Based on this, it follows that:
 
 **Point 1** <br>
 Busiest times and the products ordered most frequently.
-
 | Day | Time | Product |
 | --- | --- | --- |
 | Monday | 10 a.m. | Americano with Milk |
@@ -98,8 +94,8 @@ Busiest times and the products ordered most frequently.
 
 **Point 2** <br>
 The quietest day, including its busiest hour and the best-selling product during that time.
-
 | Day | Time | Product |
+| --- | --- | --- |
 | Saturday | 11 a.m. | Americano |
 | Sunday | 10 a.m. | Latte |
 
