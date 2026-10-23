@@ -5,11 +5,11 @@
 ### 1. Analysis Requirements <br>
 The following requirements were obtained for this project: <br>
 - Owner's questions:
-  a. How has sales performance been throughout 2024–2025? <br>
-  b. Which products are the best-sellers? <br>
-  c. On which days are the most orders placed? <br>
-  d. During which hours is the highest sales generated? <br>
-  e. Which payment methods do customers use most frequently for their transactions? <br>
+  a.) How has sales performance been throughout 2024–2025? <br>
+  b.) Which products are the best-sellers? <br>
+  c.) On which days are the most orders placed? <br>
+  d.) During which hours is the highest sales generated? <br>
+  e.) Which payment methods do customers use most frequently for their transactions? <br>
 - Metric: money.
 - Dimensions: Date, Time, Weekday, coffee_name, cash_type.
 - Outcomes: The results will be used by the owner to consider ways to improve sales performance.
