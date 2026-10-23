@@ -53,7 +53,7 @@ References can be viewed [here]().
 - Number of products: 8
 - Product price range: IDR 18,000 – IDR 38,000
 
-**Business Model**
+**Business Model** <br>
 Value proposition: The café offers fast service with affordable product pricing. <br>
 Revenue stream: Sales of beverages. <br>
 Sales channel: On-premise (within the café). <br>
