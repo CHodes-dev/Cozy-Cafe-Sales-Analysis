@@ -22,7 +22,7 @@ Top-side.
 Bottom-side.
 | Sales vs AOV trend (money - Time) | Sales by Product (money - coffee_name) | Sales Table |
 | --- | --- | --- |
-| Top performing Day | Top performing Time | Transaction Mathod |
+| Sales by Day | Sales by Hour | Payment Method|
 
 ## Result
 
