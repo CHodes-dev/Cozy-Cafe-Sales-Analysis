@@ -3,12 +3,12 @@ The structure of this repository includes:
 ```
 Cozy-Cafe-Sales-Analysis/
 |
-|- docs/                                 	      # Specific folder for storing any document in the project
-|  |- cozy_cafe_dataset.csv			                # Datasets used for the project
-|  |- cozy_cafe_dashboard.pbix			            # pbix files shows dashboard of company sales performance
+|- docs/                                        # Specific folder for storing any document in the project
+|  |- cozy_cafe_dataset.csv                     # Datasets used for the project
+|  |- cozy_cafe_dashboard.pbix                  # pbix files shows dashboard of company sales performance
 |  |
 |- images/                                     	# Specific folder for stroing any images in the project
-|  |- prev_dashboard.png              	    	  # png file shows preview of the dashboard
+|  |- prev_dashboard.png                        # png file shows preview of the dashboard
 |  |- data_structure.png                        # png files shows structure of data in this project
 |  |
 |- notes/                                       # Specific folder for storing repository structure, project reflection, and future enhancements
@@ -23,6 +23,6 @@ Cozy-Cafe-Sales-Analysis/
 |  |- 04_deep_dive_analysis.md                  # file that shows deep dive analysis process and result
 |  |- 05_dashboard_design.md                    # file that shows how dashboard created
 |  |
-|- README.md                                 	  # Project overview and instructions
-|- LICENSE                                   	  # License information for the repository
+|- README.md                                    # Project result overview
+|- LICENSE                                      # License information for the repository
 ```
