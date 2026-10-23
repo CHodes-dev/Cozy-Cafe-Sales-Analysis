@@ -14,8 +14,8 @@ This section describes the source, scope, and general characteristics of the dat
 ### 2. Data Structure and Description <br>
 This section explains the dataset structure, column definitions, data types, and their relevance to the analysis.
 
-| Column | Data Type | Description |
-| --- | --- | --- | --- |
+| Column | Data_Type | Description |
+| --- | --- | --- |
 | hour_of_day | Number | Indicates the hour at which a transaction took place |
 | cash_type | String | Shows the payment method used by the customer |
 | money | Number | Displays the amount paid by the customer for each product purchased |
