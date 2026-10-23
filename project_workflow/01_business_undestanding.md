@@ -39,7 +39,7 @@ The cafe market in Makassar is described as highly competitive, with businesses 
 
 Cafe sales performance is influenced by transaction volume, average order value, product mix, and cost structure. Transaction volume measures the number of orders, while average order value (AOV) represents the average amount spent per order and can be calculated by dividing total sales by total orders. Product mix analysis examines sales contributions across product categories, while cost structure includes cost of goods sold (COGS), labor, rent, and utilities. Together, these factors help explain sales performance and provide a foundation for evaluating profitability, provided that sufficient cost data is available.
 
-References can be viewed [here]().
+References can be viewed [here](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/notes/references.md).
 
 ## 5. Cafe Profile
 
