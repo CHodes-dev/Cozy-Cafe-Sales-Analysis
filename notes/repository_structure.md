@@ -14,7 +14,6 @@ Cozy-Cafe-Sales-Analysis/
 |- notes/                                       # Specific folder for storing repository structure, project reflection, and future enhancements
 |  |- repositori_structure.md                   # file that shows the repository structure
 |  |- project_reflection.md                     # file for recording important points regarding the creation of this project, including its strengths and weaknesses.
-|  |- future_enhancements.md                    # file for recording points that could be improved upon for future projects
 |
 |- project_workflow/                            # Specific folder for storing workflow files performed in the project
 |  |- 01_business_understanding.md              # file that shows business understanding about cafe industry
