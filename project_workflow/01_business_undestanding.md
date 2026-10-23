@@ -40,3 +40,24 @@ The cafe market in Makassar is described as highly competitive, with businesses 
 Cafe sales performance is influenced by transaction volume, average order value, product mix, and cost structure. Transaction volume measures the number of orders, while average order value (AOV) represents the average amount spent per order and can be calculated by dividing total sales by total orders. Product mix analysis examines sales contributions across product categories, while cost structure includes cost of goods sold (COGS), labor, rent, and utilities. Together, these factors help explain sales performance and provide a foundation for evaluating profitability, provided that sufficient cost data is available.
 
 References can be viewed [here]().
+
+## 5. Cafe Profile
+
+- Cafe Name: Cozy Cafe
+- Year of operation: 2024
+- Number of employees: 2 baristas
+- Operating days: Every day
+- Operating hours: 6 a.m. – 10 p.m.
+- Location: Tamalanrea, Makassar, South Sulawesi
+- Product types: Coffee-based and Chocolate-based
+- Number of products: 8
+- Product price range: IDR 18,000 – IDR 38,000
+
+**Business Model**
+Value proposition: The café offers fast service with affordable product pricing. <br>
+Revenue stream: Sales of beverages. <br>
+Sales channel: On-premise (within the café). <br>
+Business model: Grab-and-go; the focus is on the total volume of coffee cups sold, given the relatively affordable price point. <br>
+
+**Customer Behavior**
+Customer segment: Primarily university students, due to the café’s proximity to several campuses in the Tamalanre area.
