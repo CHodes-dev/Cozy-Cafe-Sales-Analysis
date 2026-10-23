@@ -26,6 +26,6 @@ Bottom-side.
 
 ## Result
 
-[prev_dashboard](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/prev_dashboard.png)
+![prev_dashboard](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/prev_dashboard.png)
 
 Or download [here](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/docs/cozy_cafe_dashboard.pbix) for interactive dashboard.
