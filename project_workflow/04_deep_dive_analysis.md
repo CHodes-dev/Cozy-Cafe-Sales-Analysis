@@ -23,13 +23,13 @@ This analysis will answer the following question:
 ### 1. High Level Sales Insights
 
 #### Initial insights <br>
-- Total sales from 2024 to 2025 reached IDR 112.2 million, with monthly sales ranging between IDR 5 million and IDR 13 million. <br>
-- Sales increased significantly in October 2024 before dropping sharply through January 2025, then rose significantly again in February 2025.
-- All transactions are carried out using a card-based method.
+- Sales began to increase from August and peaked in October 2024 with a total of 429 orders, generating a monthly revenue of Rp 13.8 million. After the highest sales occurred, sales continuously declined from November 2024 to January 2025. This decline reached up to 54%. Sales in January were only around 201 orders.
+- However, after the decline, there was another surge in sales in February 2025 with 423 orders, generating Rp 13.2 million that month. A decline occurred again in March 2025, although not as severe as the previous one, which was 23%.
+- All customers conduct transactions using cards.
 
 #### Deep dive insights <br>
 **Point 1** <br>
-- In October, the AOV saw a 14% increase, following a 22% decline the previous month. The trends for AOV and sales moved in tandem from August through October, both showing consistent, continuous growth. <br>
+- In October, the AOV saw a 14% increase, following a 22% decline the previous month. The trends for AOV and sales moved in tandem from August through October, both showing consistent, continuous growth.
 - Total orders also saw an increase during that period. <br>
 **Indication** <br>
   - The increase in total sales is primarily driven by an increase in customer spending and a rise in the number of orders placed.
