@@ -59,5 +59,5 @@ Revenue stream: Sales of beverages. <br>
 Sales channel: On-premise (within the café). <br>
 Business model: Grab-and-go; the focus is on the total volume of coffee cups sold, given the relatively affordable price point. <br>
 
-**Customer Behavior**
+**Customer Behavior** <br>
 Customer segment: Primarily university students, due to the café’s proximity to several campuses in the Tamalanre area.
