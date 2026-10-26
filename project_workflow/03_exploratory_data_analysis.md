@@ -4,7 +4,7 @@
 
 ### 1. Analysis Requirements <br>
 The following requirements were obtained for this project: <br>
-- Owner's questions:
+- Owner's questions:<br>
   a.) How has sales performance been throughout 2024–2025? <br>
   b.) Which products are the best-sellers? <br>
   c.) On which days are the most orders placed? <br>
