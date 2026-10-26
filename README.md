@@ -9,7 +9,7 @@ The owner wants to analyze sales data from the first year of operation to evalua
 - Product Performance: analyzing product performance in relation to its impact on sales. <br>
 - Day and Time Performance: analyzing the time periods with the best or worst performance during the cafe's operation.
 
-⚠️_**Disclaimer**_: This project does not represent actual events and was created specifically for portfolio purposes.
+⚠️**Disclaimer**: This project does not represent actual events and was created specifically for portfolio purposes.
 
 ### Data Structure
 
