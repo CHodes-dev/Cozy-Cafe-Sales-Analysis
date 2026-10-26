@@ -14,7 +14,8 @@ The owner wants to analyze sales data from the first year of operation to evalua
 ### Data Structure
 
 The café transaction data is contained in a single table consisting of 11 columns and 3,547 rows, as shown below.
-![data_structure](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/data_structure.png).
+
+![data_structure](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/data_structure.png)
 
 Before analysis is conducted, the data must be cleaned and selected based on the requirements of the analysis. The steps for data cleaning and standardization can be viewed [here](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/project_workflow/02_data_understanding_and_cleaning.md).
 
@@ -25,6 +26,7 @@ Before analysis is conducted, the data must be cleaned and selected based on the
 The cafe's sales trend over the year shows spikes occurring at two different times. The first increase occurred in October 2024, when the cafe's sales reached IDR 13.8 million, contributing approximately 12.4% to the total sales. The second increase happened in February 2025, when sales reached IDR 13.2 million, equivalent to 11.8% of the total sales. However, afterward, there was also a significant decline.
 
 Here is a preview of the Cozy Cafe sales performance dashboard; to obtain the interactive dashboard, it can be downloaded [here](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/docs/cozy_cafe_dashboard.pbix).
+
 ![prev_dashboard](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/prev_dashboard.png)
 
 ##### Sales Trends
