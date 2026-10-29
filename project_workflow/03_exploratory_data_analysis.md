@@ -34,13 +34,14 @@ Below are some initial findings obtained after conducting an analysis in Excel, 
 
 | Metric - Dimension | Insight |
 | --- | --- |
-| money - Date | Total sales from 2024 to 2025 reached IDR 112.2 million, with monthly sales ranging between IDR 5 million and IDR 13 million. |
-| money - Date | Sales increased significantly in October 2024 before dropping sharply through January 2025, then rose significantly again in February 2025. |
-| money - coffee_name | Most products showed an increase in sales in October 2024 and February 2025. | 
-| money - coffee_name | Latte was the best-selling product, reaching IDR 26.8 million, while Espresso was the worst-selling product, at approximately IDR 2.6 million, between 2024 and 2025.
-| money - coffee_name | Latte, Americano with Milk, and Cappuccino are the best-performing products, with sales exceeding IDR 17 million. |
+| money - Date | Sales began to rise from August and peaked in October 2024, with a total of 429 orders generating monthly revenue of Rp 13.8 million. Following this peak, sales declined steadily from November 2024 to January 2025. This decline amounted to 54%. Sales in January totalled only around 201 orders. |
+| money - Date | However, following this decline, there was another surge in sales in February 2025, totalling 423 orders and generating Rp 13.2 million that month. A further decline occurred in March 2025, although it was not as severe as the previous one, amounting to 23%. |
+| money - coffee_name | As much as 62% of revenue comes from just three products: Americano with Milk, Latte and Cappuccino. These three products have contributed approximately Rp 69 million in revenue over the past year. | 
+| money - coffee_name | Espresso, as a high-concentration coffee drink, has performed less than satisfactorily, contributing just 2% to the café’s total revenue, despite being the cheapest option compared to other products. |
+| money - coffee_name | Whenever there is an increase in sales, the product types that contribute the most are not always the same. In October 2024, Latte (contributing 31%), Americano with Milk (contributing 18%) and Hot Chocolate (contributing 15%). Meanwhile, in February 2025, Americano (contributing 23%), Americano with Milk (contributing 20%) and Cocoa (contributing 15%). |
 | money - Weekday | Monday and Tuesday were the days with the best sales performance. |
 | money - Weekday | The weekend, Saturday and Sunday, are the days with the worst sales performance. |
-| money - Time | 10 a.m. and 4 p.m. are the times with the best performance. |
-| money - Time | 6 a.m. is the time with the worst performance. |
+| money - Time | On average, a café sells 39 cups a day and generates Rp 1.2 millions. On the busiest day, Tuesday, cafés sell an average of up to 44 cups, with total sales reaching Rp 1.3 millions. This figure differs by only Rp 371,000 from total sales on Saturday, the day with the lowest sales, which averages just 32 cups. |
+| money - Time | The busiest times are at 10 am and 4 pm. On average over the course of a week, 47 cups are sold at 10 am. Meanwhile, sales pick up again at 4 pm, with an average of 40 cups sold.|
+| money - Time | Meanwhile, the period between 6 am and 7 am sees the lowest sales, with an average of just 8 cups sold during that time. |
 | money - cash_type | All transactions are carried out using a card-based method. |
