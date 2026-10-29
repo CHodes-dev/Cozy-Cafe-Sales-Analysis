@@ -30,8 +30,9 @@ This analysis will answer the following question:
 
 **Deep dive insights**
 
-| !(total_sales_vs_aov)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/total_sales_vs_aov.png] | !(total_sales_vs_total_orders)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/total_sales_vs_total_orders.png] |
+| Total Sales vs AOV | Total Sales vs Total Orders |
 | --- | --- |
+| !(total_sales_vs_aov)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/total_sales_vs_aov.png] | !(total_sales_vs_total_orders)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/total_sales_vs_total_orders.png] |
 
 - Looking at the comparison of trends in total sales and AOV, in August 2024, when total sales began to rise by 10% from the previous month, the AOV actually reached its lowest point at Rp 27,992. Meanwhile, the total number of orders increased by 15% from the previous month. <br>
 There was a decrease in the average order value per customer. However, this did not affect total sales; in fact, total sales increased due to the rise in the total number of orders.
