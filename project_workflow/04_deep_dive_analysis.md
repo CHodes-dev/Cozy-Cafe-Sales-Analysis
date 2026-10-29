@@ -124,29 +124,45 @@ People typically active at this time are those enjoying their weekend off after 
 
 Based on these findings, what the cafe owner can do is:
 
-**1. Directional**
+**Product**
 
-Indicates that there are matters that can be explored further, meaning it is not yet possible to draw immediate conclusions regarding what steps should be taken next.
+1. Optimising the Americano
 
-**High Sales Level** <br>
-- It is necessary to find out what happened between August and October—for instance, whether any sales strategies, such as product bundling, were implemented that might have increased the amount customers spent. <br>
-- Investigating the reasons behind the decline in the number of customers making purchases between November 2024 and December 2025—could it be due to competitors or other factors? <br>
-- Investigating the cause of the surge in purchases in February 2025—were there any external factors that influenced it? <br>
-- Find out which type of card is most frequently used by customers, so that you can collaborate with the card issuer to offer discounts on purchases made using that card.
+As this product has high potential for boosting the café’s revenue, given that 16% of customers order it and it accounts for 13% of revenue, promotional efforts can be focused on this product.<br>
+Since this product has a low average order value, an ‘upgrade size’ strategy could be implemented. This would allow customers to purchase a large-sized product by paying an additional Rp 5,000. It is hoped that this will increase total revenue from this product by raising the average order value (AOV).
 
-**Product** <br>
-- Find out the reason behind the increase in sales at Espresso. Was there a specific customer segment that visited in February 2025, leading to this rise in sales?
+3. Maintaining the quality of Latte and Americano with Milk
 
-**2. Actionable**
+As the café’s main revenue drivers, accounting for over 40% of overall sales, these two products lead the way in terms of order volume, with many customers favouring them. Consequently, maintaining product quality to ensure customer loyalty is essential. <br>
+Because the average order value for these products is low, one way to increase it is to encourage customers to add an extra shot or extra milk by offering a specific discount on their purchase.
 
-Clear and realistic insights for taking action.
+4. Raising awareness of Hot Chocolate and Cocoa
 
-**Products** <br>
-- Lattes and Americano with Milk could serve as key products for a bundling program aimed at increasing AOV.
-- To increase the sales volume of Cappuccino, one could focus on promoting this product.
-- Focus promotional efforts on both products, Hot Chocolate and Cocoa, to increase interest in them on regular days.
+As chocolate-based products, there is a customer segment that specifically comes to buy these items even if it means paying a higher price, as shown by the average transaction value for these products, which ranks amongst the top three. <br>
+Therefore, to ensure more customers are aware of these products and ultimately wish to purchase them, we can run promotions or campaigns targeting people who do not drink coffee.
 
-**Day and Time** <br>
-- Ensure that Lattes and Americanos with milk remain available on Mondays and Tuesdays at 10–11 a.m., 4 p.m., and 7 p.m, in order to meet customer demand.
-- To maximize sales on weekend mornings, you could offer a special promotion during that time, featuring Latte and Americano as the main draws.
-- Offer a special early-morning promotion, between 6-7 a.m. on Americano with Milk, Americano, and Cappuccino to increase the number of purchases.
+5. Positioning Cappuccino as a premium product
+
+Customers who purchase this product are loyal and not price-sensitive. This is proven by the stable order volume and the consistently high average order value. Therefore, positioning it as a premium product is the right decision. <br>
+As a premium product, its quality must always be maintained, as customers for this product are generally more sensitive to product quality than to price. <br>
+One strategy to increase the number of orders is to feature this product as a recommendation on the menu; this way, more people will become aware of it before eventually purchasing it.
+
+6. Evaluation of Espresso
+
+As the product with the lowest contribution to the café’s revenue, around 2%, due to the low number of orders and low average transaction value, this product requires evaluation. <br>
+Compared to the number of customers purchasing chocolate-based products, this product which has the strongest coffee flavour has a smaller customer base. The customers who come to buy it represent a very niche market and only purchase it at specific times. <br>
+Review the number of orders, the margin per cup and the cost of raw materials. If demand and margins do not meet the criteria, consider whether the product should remain on the menu.
+
+**Day & Time**
+
+1. Make the most of peak hours to boost efficiency and sales
+
+Mondays and Tuesdays between 10 am and 11 am, 4 pm and 7 pm are peak periods for orders. Ensure that popular products such as Lattes, Americanos with milk and Cappuccinos are always in stock during these times. <br>
+Other products, such as Americano, are frequently ordered on Monday and Tuesday mornings between 10 and 11 am. Therefore, ensure that customers ordering this product are served quickly and that you do not run out of stock. <br>
+Hot Chocolate is most frequently purchased on Tuesdays at 4 pm, when people are winding down from their day’s activities and want to relax. At this time, ensure this product is available and that customers are served promptly, as they will want to head home straight away after a full day’s work. <br>
+Staff must ensure customers are well looked after; this means that order taking, preparation, serving and payment are carried out as efficiently as possible to minimise customer waiting times.
+
+2. Boost orders at the weekend
+
+Saturdays and Sundays are the quietest days, except between 10 and 11 am. <br>
+The strategy should focus on increasing the number of orders without offering large discounts on a continuous basis. This is because the products that sell well at that time are those with a medium AOV, such as lattes and Americanos with milk.
