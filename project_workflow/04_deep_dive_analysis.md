@@ -108,8 +108,7 @@ Meanwhile, on Tuesdays at 4 pm, Hot Chocolate and Americano with Milk are the mo
 
 ![top_product_sat_sun](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/top_product_sat_sun.png)
 
-- Sales are at their lowest at the weekend, with Saturday contributing 13% and Sunday 12% to total revenue. On both days, the busiest period is only in the morning, specifically between 10 and 11 am. <br>
-People typically active at this time are those enjoying their weekend off after exercising or simply taking a morning stroll.
+- Sales are at their lowest at the weekend, with Saturday contributing 13% and Sunday 12% to total revenue. On both days, the busiest period is only in the morning, specifically between 10 and 11 am. People typically active at this time are those enjoying their weekend off after exercising or simply taking a morning stroll.
 
 - Although Saturday and Sunday are the days with the lowest sales compared to other days, they also have peak hours that have the potential to boost customer purchases, namely between 10 and 11 am. Customers who make purchases at this time are only interested in three products: Latte, Americano with Milk, and Cappuccino. The percentage of revenue generated during these hours is also roughly the same, ranging from 18% to 38%.
 
@@ -131,23 +130,20 @@ Based on these findings, what the cafe owner can do is:
 As this product has high potential for boosting the café’s revenue, given that 16% of customers order it and it accounts for 13% of revenue, promotional efforts can be focused on this product.<br>
 Since this product has a low average order value, an ‘upgrade size’ strategy could be implemented. This would allow customers to purchase a large-sized product by paying an additional Rp 5,000. It is hoped that this will increase total revenue from this product by raising the average order value (AOV).
 
-3. Maintaining the quality of Latte and Americano with Milk
+2. Maintaining the quality of Latte and Americano with Milk
 
-As the café’s main revenue drivers, accounting for over 40% of overall sales, these two products lead the way in terms of order volume, with many customers favouring them. Consequently, maintaining product quality to ensure customer loyalty is essential. <br>
-Because the average order value for these products is low, one way to increase it is to encourage customers to add an extra shot or extra milk by offering a specific discount on their purchase.
+As the café’s main revenue drivers, accounting for over 40% of overall sales, these two products lead the way in terms of order volume, with many customers favouring them. Consequently, maintaining product quality to ensure customer loyalty is essential. Because the average order value for these products is low, one way to increase it is to encourage customers to add an extra shot or extra milk by offering a specific discount on their purchase.
 
-4. Raising awareness of Hot Chocolate and Cocoa
+3. Raising awareness of Hot Chocolate and Cocoa
 
-As chocolate-based products, there is a customer segment that specifically comes to buy these items even if it means paying a higher price, as shown by the average transaction value for these products, which ranks amongst the top three. <br>
-Therefore, to ensure more customers are aware of these products and ultimately wish to purchase them, we can run promotions or campaigns targeting people who do not drink coffee.
+As chocolate-based products, there is a customer segment that specifically comes to buy these items even if it means paying a higher price, as shown by the average transaction value for these products, which ranks amongst the top three. Therefore, to ensure more customers are aware of these products and ultimately wish to purchase them, we can run promotions or campaigns targeting people who do not drink coffee.
 
-5. Positioning Cappuccino as a premium product
+4. Positioning Cappuccino as a premium product
 
 Customers who purchase this product are loyal and not price-sensitive. This is proven by the stable order volume and the consistently high average order value. Therefore, positioning it as a premium product is the right decision. <br>
-As a premium product, its quality must always be maintained, as customers for this product are generally more sensitive to product quality than to price. <br>
-One strategy to increase the number of orders is to feature this product as a recommendation on the menu; this way, more people will become aware of it before eventually purchasing it.
+As a premium product, its quality must always be maintained, as customers for this product are generally more sensitive to product quality than to price. One strategy to increase the number of orders is to feature this product as a recommendation on the menu; this way, more people will become aware of it before eventually purchasing it.
 
-6. Evaluation of Espresso
+5. Evaluation of Espresso
 
 As the product with the lowest contribution to the café’s revenue, around 2%, due to the low number of orders and low average transaction value, this product requires evaluation. <br>
 Compared to the number of customers purchasing chocolate-based products, this product which has the strongest coffee flavour has a smaller customer base. The customers who come to buy it represent a very niche market and only purchase it at specific times. <br>
@@ -157,12 +153,10 @@ Review the number of orders, the margin per cup and the cost of raw materials. I
 
 1. Make the most of peak hours to boost efficiency and sales
 
-Mondays and Tuesdays between 10 am and 11 am, 4 pm and 7 pm are peak periods for orders. Ensure that popular products such as Lattes, Americanos with milk and Cappuccinos are always in stock during these times. <br>
-Other products, such as Americano, are frequently ordered on Monday and Tuesday mornings between 10 and 11 am. Therefore, ensure that customers ordering this product are served quickly and that you do not run out of stock. <br>
+Mondays and Tuesdays between 10 am and 11 am, 4 pm and 7 pm are peak periods for orders. Ensure that popular products such as Lattes, Americanos with milk and Cappuccinos are always in stock during these times. Other products, such as Americano, are frequently ordered on Monday and Tuesday mornings between 10 and 11 am. Therefore, ensure that customers ordering this product are served quickly and that you do not run out of stock. <br>
 Hot Chocolate is most frequently purchased on Tuesdays at 4 pm, when people are winding down from their day’s activities and want to relax. At this time, ensure this product is available and that customers are served promptly, as they will want to head home straight away after a full day’s work. <br>
 Staff must ensure customers are well looked after; this means that order taking, preparation, serving and payment are carried out as efficiently as possible to minimise customer waiting times.
 
 2. Boost orders at the weekend
 
-Saturdays and Sundays are the quietest days, except between 10 and 11 am. <br>
-The strategy should focus on increasing the number of orders without offering large discounts on a continuous basis. This is because the products that sell well at that time are those with a medium AOV, such as lattes and Americanos with milk.
+Saturdays and Sundays are the quietest days, except between 10 and 11 am. The strategy should focus on increasing the number of orders without offering large discounts on a continuous basis. This is because the products that sell well at that time are those with a medium AOV, such as lattes and Americanos with milk.
