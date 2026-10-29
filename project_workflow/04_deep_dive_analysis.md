@@ -58,16 +58,16 @@ The reduction in the number of orders had a significant impact on the decline in
 
 **Deep dive insights**
 
-!(sales_mix_by_product)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/sales_mix_by_product.png]
+![sales_mix_by_product](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/sales_mix_by_product.png)
 
 - There are several product categories with the best sales performance based on their time period.
     1. The products with the best sales performance from March 2024 to March 2025 were: Latte (Rp 26,875,300), Americano with Milk (Rp 24,751,120) and Cappuccino (Rp 17,439,140).
     2. The products that contributed to the surge in revenue in October 2024 were: Latte contributing 31%,  Americano with Milk contributing 18%, and Hot Chocolate contributing 15%. These three products accounted for at least 64% of that month’s total revenue, equivalent to Rp 4,995,360 out of Rp 13,891,160.
     3. The products that contributed to the surge in revenue in February 2024 were Americano which contributed 23%,  Americano with Milk  which contributed 20%, and Cocoa which contributed 15%. The combined contribution of these three reached 58%, equivalent to Rp 7,662,980 out of Rp 13,215,380.
  
-!(sales_table)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/sales_table.png]
+![sales_table](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/sales_table.png)
 
-| !(table_total_sales_by_product)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/table_total_orders_by_product.png] | !(table_aov_by_product)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/table_aov_by_product.png] |
+| ![table_total_sales_by_product](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/table_total_orders_by_product.png) | ![table_aov_by_product](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/table_aov_by_product.png) |
 | --- | --- |
 
 - Based on this trend, Latte and Americano with Milk have shown consistent sales performance, accounting for 46% of annual revenue. The high total sales of these two products are due to the high proportion of orders they generate, which account for 44% of all orders received by the café. Furthermore, both feature in the Top 3 during sales spikes. <br>
@@ -92,9 +92,9 @@ The high sales recorded in February 2025 were due to a more than four-fold incre
 
 **Deep dive insights**
 
-!(total_sales_by_mon_tue)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/total_sales_by_mon_tue.png]
+![total_sales_by_mon_tue](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/total_sales_by_mon_tue.png)
 
-| !(top_product_mon)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/top_prodct_mon.png] | !(top_product_tue)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/top_product_tue.png] |
+| ![top_product_mon](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/top_prodct_mon.png) | ![top_product_tue](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/top_product_tue.png) |
 | --- | --- |
 
 - Mondays and Tuesdays, specifically between 10 am and 11 am, 4 pm and 7 pm, are the busiest times. These periods account for at least 26%–27% of daily income. <br>
@@ -104,16 +104,16 @@ At these times, people whether students or office workers have already begun the
 On Mondays at 4 pm and 7 pm, customers order more Lattes, which contribute 45% to 48% of revenue; they also order more Cappuccinos at these times than in the morning. <br>
 Meanwhile, on Tuesdays at 4 pm, Hot Chocolate and Americano with Milk are the most popular, contributing 22% of revenue. At 7 pm, just as on Monday evenings, Lattes and Cappuccinos are the most popular choices.
 
-!(total_sales_by_sat_sun)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/total_sales_by_sat_sun.png]
+![total_sales_by_sat_sun](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/total_sales_by_sat_sun.png)
 
-!(top_product_sat_sun)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/top_product_sat_sun.png]
+![top_product_sat_sun](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/top_product_sat_sun.png)
 
 - Sales are at their lowest at the weekend, with Saturday contributing 13% and Sunday 12% to total revenue. On both days, the busiest period is only in the morning, specifically between 10 and 11 am. <br>
 People typically active at this time are those enjoying their weekend off after exercising or simply taking a morning stroll.
 
 - Although Saturday and Sunday are the days with the lowest sales compared to other days, they also have peak hours that have the potential to boost customer purchases, namely between 10 and 11 am. Customers who make purchases at this time are only interested in three products: Latte, Americano with Milk, and Cappuccino. The percentage of revenue generated during these hours is also roughly the same, ranging from 18% to 38%.
 
-| !(table_sales_6_7)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/table_sales_6_7_am.png] | !(table_sales_by_product_6_7_am)[https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/table_sales_by_product_6_7_am.png] |
+| ![table_sales_6_7](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/table_sales_6_7_am.png) | ![table_sales_by_product_6_7_am](https://github.com/CHodes-dev/Cozy-Cafe-Sales-Analysis/blob/main/images/table_sales_by_product_6_7_am.png) |
 | --- | --- |
 
 - Between 6 and 7 am is the least busy time for orders; in fact, orders are only placed at 6 am on two days a week. This may be because not many people are active at that time.
